@@ -1,6 +1,6 @@
 .navbar{
-  background-color: green !important; /*_fill*/
-  border-color: green;
+  background-color: #FF3823 !important; /*_fill*/
+  border-color: #FF3823;
 }
 @font-face {
   font-family: 'Glyphs';
